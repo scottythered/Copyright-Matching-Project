@@ -20,4 +20,6 @@ Also, matching between the two datasets, even after converting them to Pandas da
 And so on.
 
 ## Status
-As of 8/13, MARK 1 is complete, finding that only ~23 percent of registered copyrights were likely renewed. This gives us an opening for MARK 2, where non-renewed (ie public domain) content may be matched with open source, publicly available versions (Project Gutenberg, Internet Archive, etc) and logged in a database for easier public access.
+As of 8/13, MARK 1 is complete, finding that **only ~23 percent of registered copyrights from 1924-1963 were likely renewed.**
+
+This gives us an opening for MARK 2, where non-renewed (ie public domain) content may be matched with open source, publicly available versions (Project Gutenberg, Internet Archive, etc) and logged in a database for easier public access.
